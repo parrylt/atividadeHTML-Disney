@@ -1,5 +1,5 @@
 # atividadeHTML-Disney
-uma das primeiras atividades de HTML feita em aula. html da disney.
+uma das primeiras atividades de HTML feita em aula. html da disney. Aula do professor Rodrigo na Etec de Guarulhos.
 <br><br>
 <div align="center">
   <h3>Bem simplão no começo do aprendizado de HTML</h3>
